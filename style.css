@@ -10,7 +10,7 @@ body{
     background-image: url("./assets/bg.jpg");
     background-size: cover;
     background-position: center;
-    appearance: no-repeat;
+    background-repeat: no-repeat;
 }
 .container{
     align-content: center;
